@@ -14,7 +14,7 @@ The VillagerTradeReset plugin enhances the villager trading experience by adding
 
 ## Languages
 
-The plugin automatically generates language files and supports multiple languages out of the box. You can easily switch between them by changing the `languages` option in your `config.yml` file:
+The plugin automatically generates language files and supports multiple languages out of the box. You can easily switch between them by changing the `language` option in your `config.yml` file:
 
 # Available languages:
 # English -> en_US
