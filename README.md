@@ -17,11 +17,11 @@ The VillagerTradeReset plugin enhances the villager trading experience by adding
 ### Commands
 
 * `/resettrades` : Resets the trades of the villager you are looking at.
-* `/vtr <on|off|reload>` : Administrative command to manage the plugin status and reload configs.
+* `/vtr on|off|reload` : Administrative command to manage the plugin status and reload configs.
 
 ### Permissions
 
-* `villagertradereset.use` : Allows players to use the `/resettrades` command and the sneak+right-click mechanic.
+* `villagertradereset` : Allows players to use the `/resettrades` command and the sneak+right-click mechanic.
 * `villagertradereset.admin` : Allows administrators to use the `/vtr` command.
 
 ## Support
