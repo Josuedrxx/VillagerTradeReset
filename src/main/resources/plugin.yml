@@ -1,0 +1,22 @@
+name: VillagerTradeReset
+version: 1.1
+main: me.drxx.resettrades.ResetTrades
+api-version: '1.20'
+author: Josuedrxx
+folia-supported: true
+
+commands:
+  resettrades:
+    description: Reset trades of the villager you are looking at.
+    usage: /resettrades
+  vtr:
+    description: Comando administrativo do plugin.
+    usage: /vtr <on|off|reload>
+
+permissions:
+  villagertradereset:
+    description: Permite resetar as trocas dos aldeões.
+    default: op
+  villagertradereset.admin:
+    description: Permite usar o comando /vtr.
+    default: op
