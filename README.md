@@ -12,6 +12,26 @@ The VillagerTradeReset plugin enhances the villager trading experience by adding
 * **Target Command Reset:** Use the main command while looking directly at a villager to wipe and reset their trades.
 * **Admin Controls:** Easily toggle the plugin status or reload configurations via a dedicated admin command.
 
+## Languages
+
+The plugin automatically generates language files and supports multiple languages out of the box. You can easily switch between them by changing the `languages` option in your `config.yml` file:
+
+# Available languages:
+# English -> en_US
+# Portuguese (Brasil) -> pt_BR
+# Portuguese (Portugal) -> pt_PT
+# Spanish (Español) -> es_ES
+# French (Français) -> fr_FR
+# German (Deutsch) -> de_DE
+# Italian (Italiano) -> it_IT
+# Russian (Русский) -> ru_RU
+# Chinese (简体中文) -> zh_CN
+# Japanese (日本語) -> ja_JP
+# Korean (한국어) -> ko_KR
+language: en_US
+
+After changing the language code, just run /vtr reload to apply the changes instantly in-game!
+
 ## Usage
 
 ### Commands
