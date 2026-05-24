@@ -1,10 +1,16 @@
 # VillagerTradeReset 💎
 
+## 📥 Available on Modrinth
+Download the latest version here: [https://modrinth.com/plugin/villagertradereset](https://modrinth.com/plugin/villagertradereset)
+
 A lightweight Spigot/Paper plugin that allows players to quickly reset Villager professions and trades. Perfect for survival servers to reroll villager trades without the hassle of constantly breaking and replacing workstations.
 
 ## Overview
 
 The VillagerTradeReset plugin enhances the villager trading experience by adding fast mechanics to reset trades. You can configure who can perform the reset and choose between text commands or direct in-game interactions.
+
+## 📹 Demonstration
+![Demostration](https://cdn.modrinth.com/data/2G0dafBL/images/1c6ab6094c5bb2bbab09c0870c1a363b4fed103a.gif)
 
 ## Features
 
